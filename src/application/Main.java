@@ -39,6 +39,6 @@ public class Main extends Application {
 	//Getters e Setters 
 	public static Scene getMainScene() {
 		return mainScene;
-	}
+		}
 		
 }
